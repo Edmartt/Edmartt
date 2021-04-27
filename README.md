@@ -1,4 +1,13 @@
-### Hi there 👋
+### ¡Hola! Soy *Edinson Martínez*, desarrollador y aprendiz backend, nacido en Colombia 👋
+🖥️ He estado en el sector tecnológico hace varios años, dando soporte, la mayoría del tiempo como freelancer.
+
+⌨️ Me gusta el **desarrollo de software**, y amante de la tecnología en general.
+
+📝 Actualmente me encuentro terminando una carrera tecnológica en **análisis de sistemas**.
+
+✍️ Siempre me he sentido inclinado hacia el lado **lógico** y de ahí a que me sienta más cómodo en el desarrollo **backend** desde siempre, pero también tengo nociones básicas del **frontend**, en **HTML, CSS**, e iniciando con **Javascript** y **Bootstrap**.
+
+💻 Soy usuario **Linux** la mayoría del tiempo. Enamorado de **Python**, y de su framework **Flask**, así como también tengo conocimientos en **base de datos relacionales**, diagrama entidad-relación, diagrama relacionales y manejo de gestores de bases de datos como **MariaDB y MySQL**, así como **SQLite** también.
 
 <!--
 **Edmartt/Edmartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
