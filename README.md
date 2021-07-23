@@ -1,13 +1,13 @@
-### ¡Hola 👋! Soy *Edinson Martínez*, desarrollador y aprendiz backend, nacido en Colombia
-🖥️ He estado en el sector tecnológico hace varios años, dando soporte, la mayoría del tiempo como freelancer.
+### ¡Hi 👋! I'm *Edinson Martínez*, developer and backend development student, I was born in Colombia
+🖥️ I've been in the technology sector for a few years, giving suppor, the most of time as a freelancer.
 
-⌨️ Me gusta el **desarrollo de software**, y amante de la tecnología en general.
+⌨️ I love the **Software development**, and I'm in love with technology.
 
-📝 Actualmente me encuentro terminando una carrera tecnológica en **análisis de sistemas**.
+📝 Recently I've been finishing my carrer **Information Systems Analisys and Development**.
 
-✍️ Siempre me he sentido inclinado hacia el lado **lógico** y de ahí a que me sienta más cómodo en el desarrollo **backend** desde siempre, pero también tengo nociones básicas del **frontend**, en **HTML, CSS**, e iniciando con **Javascript** y **Bootstrap**.
+✍️ I have always been leaning towards the ** logical ** side and from there to that I feel more comfortable in ** backend development** since always, but I also have basic notions of the ** frontend **, in ** HTML, CSS **, and starting with ** Javascript ** and ** Bootstrap **.
 
-💻 Soy usuario **Linux** la mayoría del tiempo. Enamorado de **Python**, y de su framework **Flask**, así como también tengo conocimientos en **base de datos relacionales**, diagrama entidad-relación, diagrama relacionales y manejo de gestores de bases de datos como **MariaDB y MySQL**, así como **SQLite** también y actualmente aprendiendo sobre **REST API**.
+💻 I'm a ** Linux ** user most of the time. In love with ** Python **, and its framework ** Flask **, as well as I have knowledge in ** relational databases **, entity-relationship diagram, relational diagram and handling of database managers such as * * MariaDB and MySQL ** as well as ** SQLite ** and currently learning about ** REST API **
 
 <!--
 **Edmartt/Edmartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
