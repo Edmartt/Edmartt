@@ -7,7 +7,7 @@
 
 ✍️ I have always been leaning towards the **logical** side and from there to that I feel more comfortable in **backend development** since always, but I also have basic notions of the **frontend**, in **HTML, CSS**, and starting with **Javascript** and **Bootstrap**.
 
-💻 I'm a **Linux** user most of the time. In love with **Python**, and its framework **Flask**, as well as I have knowledge in **relational databases**, entity-relationship diagram, relational diagram and handling of database managers such as **MariaDB and MySQL** as well as **SQLite** and currently learning about **REST API**
+💻 I'm a **Linux** user most of the time. In love with **Python**, and its framework **Flask**, as well as I have knowledge in **Java**, **relational databases**, **entity-relationship diagram**, **relational diagram** and handling of database managers such as **MariaDB and MySQL** as well as **SQLite** and currently learning about **REST API** and **Docker**.
 
 <!--
 **Edmartt/Edmartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
