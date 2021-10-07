@@ -1,5 +1,5 @@
-### ¡Hi 👋! I'm *Edinson Martínez*, developer and backend development student, I was born in Colombia
-🖥️ I've been in the technology sector for a few years, giving suppor, the most of time as a freelancer.
+### ¡Hi 👋! I'm *Edinson Martínez*, Backend developer. I was born in Colombia
+🖥️ I've been in the technology sector for a few years, giving support, the most of time as a freelancer.
 
 ⌨️ I love the **Software development**, and I'm in love with technology.
 
