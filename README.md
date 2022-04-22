@@ -18,7 +18,8 @@
 
 <br/>
 
-💻 I'm a **Linux** user most of the time. In love with **Python**, and its framework **Flask**, as well as I have knowledge in **Java**, **relational databases**, **entity-relationship diagram**, **relational diagram** and handling of database managers such as **MariaDB and MySQL** as well as **SQLite** and currently learning about **REST API** and **Docker**.
+💻 I'm a Linux user most of the time. In love with **Python**, and its framework **Flask**, as well as I have knowledge in **relational databases**, **entity-relationship diagram**, **relational diagram** and handling of database managers such as **MariaDB**, **PostgreSQL** and **MySQL** as well as **SQLite** and basic knowledge in **MongoDB**; **REST API**, **GraphQL** using **Hasura graphql engine** and **Docker**. Currently learning **Go** language.
+
 
 
   - **SKILLS**<br/>
