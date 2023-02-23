@@ -20,8 +20,9 @@
 
 💻 I'm a Linux user most of the time. In love with everything related to computers and software development. I have knowledge in **Python**,  **Go**, **relational databases**, **entity-relationship diagram**, **relational diagram** and handling of database managers such as **MariaDB**, **PostgreSQL** and **MySQL** as well as **SQLite** and basic knowledge in **MongoDB**; **REST API**, **GraphQL** using **Hasura graphql engine** and **Docker**.
 
-My **LinkedIn** profile:
-- <a href="https://www.linkedin.com/in/edmart1988/">
+- My **LinkedIn** profile:
+  
+  <a href="https://www.linkedin.com/in/edmart1988/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
