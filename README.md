@@ -1,20 +1,8 @@
+I am a programmer by conviction and vocation, besides having aspirations of becoming a software architect. From a very early age I was involved with science and technology and fell in love with computers and all the advances that could help improving humanity. I graduated as an information systems analyst technologist as well as a systems technician and I am a dedicated self-taught person who is always wanting more and more knowledge. 
 
-### ¡Hi 👋! 
+I love music as well as classical music theory and doing sports, this helps me to refresh my mind and focus better.
 
-**I'm *Edinson Martínez*, Backend developer**. I was born in Colombia
-  
-🖥️ I've been in the technology sector for a few years, giving support, the most of time as a freelancer.
-
-⌨️ I love the **Software development**, and I'm in love with technology.
-
-
-📝 Recently I've been finishing my carrer **Information Systems Analisys and Development**.
-
-✍️ I have always been leaning towards the **logical** side and from there to that I feel more comfortable in **backend development** since always, but I also have basic notions of the **frontend**, in:
-
-- <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+I have been some years using languages like **C, Python, Java**, more recently **Go and GraphQL** related technologies like **Hasura** and authentication systems like **Auth0**. Below is a complete list of the technologies I have used over the years.
 
 <br/>
 
