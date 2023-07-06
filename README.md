@@ -15,7 +15,7 @@ I have been some years using languages like **C, Python, Java**, more recently *
 
   <a href="https://github-readme-stats-delta-sepia-75.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox&hide=java,css,html"></a>
 
-<a href="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&count_private=true&theme=gruvbox" width="350"><img align="right" src="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&count_private=true&theme=gruvbox" width="350"></a>
+<a href="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&theme=gruvbox" width="350"><img align="right" src="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&count_private=true&theme=gruvbox" width="350"></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 - **SKILLS**
