@@ -12,10 +12,6 @@ I have been some years using languages like **C, Python, Java**, more recently *
   <a href="https://www.linkedin.com/in/edmart1988" target="blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/edmart1988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edmart1988" height="30" width="40" /></a>
-</p>
-
 
   <a href="https://github-readme-stats-delta-sepia-75.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox&hide=java,css,html"></a>
 
