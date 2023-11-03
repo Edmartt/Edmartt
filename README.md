@@ -18,6 +18,7 @@ I have been some years using languages like **C, Python, Java**, more recently *
 <a href="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&theme=gruvbox" width="350"><img align="right" src="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&count_private=true&theme=gruvbox" width="350"></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+
 - **SKILLS**
 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
