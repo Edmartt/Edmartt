@@ -1,3 +1,6 @@
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
+[![Profile views](https://komarev.com/ghpvc/?username=edmartt&color=red&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+
 I am a programmer by conviction and vocation, besides having aspirations of becoming a software architect. From a very early age I was involved with science and technology and fell in love with computers and all the advances that could help improving humanity. I graduated as an information systems analyst technologist as well as a systems technician and I am a dedicated self-taught person who is always wanting more and more knowledge. 
 
 I love music as well as classical music theory and doing sports, this helps me to refresh my mind and focus better.
@@ -7,11 +10,6 @@ I love music as well as classical music theory and doing sports, this helps me t
 I have been some years using languages like **C, Python, Java**, more recently **Go and GraphQL** related technologies like **Hasura** and authentication systems like **Auth0**. Below is a complete list of the technologies I have used over the years.
 
 <br/>
-  
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
-[![Profile views](https://komarev.com/ghpvc/?username=edmartt&color=red&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
-
-
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmartt&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmartt&show_icons=true&count_private=true&locale=en&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
