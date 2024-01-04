@@ -6,17 +6,16 @@ I love music as well as classical music theory and doing sports, this helps me t
 
 I have been some years using languages like **C, Python, Java**, more recently **Go and GraphQL** related technologies like **Hasura** and authentication systems like **Auth0**. Below is a complete list of the technologies I have used over the years.
 
-
-- My **LinkedIn** profile:
+<br/>
   
-  <a href="https://www.linkedin.com/in/edmart1988" target="blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
+[![Profile views](https://komarev.com/ghpvc/?username=edmartt&color=red&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 
 
-  <a href="https://github-readme-stats-delta-sepia-75.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmartt&asdadiuaiuiau&count_private=true&show_icons=true&theme=gruvbox&hide=java,css,html"></a>
-
-<a href="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&theme=gruvbox" width="350"><img align="right" src="https://github-readme-stats-delta-sepia-75.vercel.app/api?username=Edmartt&show_icons=true&count_private=true&theme=gruvbox" width="350"></a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmartt&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmartt&show_icons=true&count_private=true&locale=en&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edmartt&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 - **SKILLS**
