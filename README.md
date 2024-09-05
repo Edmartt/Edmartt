@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
+[//]: #[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
 [![Profile views](https://komarev.com/ghpvc/?username=edmartt&color=red&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 I am a programmer by conviction and vocation, besides having aspirations of becoming a software architect. From a very early age I was involved with science and technology and fell in love with computers and all the advances that could help improving humanity. I graduated as an information systems analyst technologist as well as a systems technician and I am a dedicated self-taught person who is always wanting more and more knowledge. 
