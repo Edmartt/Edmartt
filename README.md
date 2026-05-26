@@ -1,13 +1,10 @@
 [//]: #[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmart1988/)
 [![Profile views](https://komarev.com/ghpvc/?username=edmartt&color=red&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-I am a programmer by conviction and vocation, besides having aspirations of becoming a software architect. From a very early age I was involved with science and technology and fell in love with computers and all the advances that could help improving humanity. I graduated as an information systems analyst technologist as well as a systems technician and I am a dedicated self-taught person who is always wanting more and more knowledge. 
-
-I love music as well as classical music theory and doing sports, this helps me to refresh my mind and focus better.
-
-💻 I'm a Linux user most of the time. In love with everything related to computers and software development. I have knowledge in **Python**,  **Go**, **relational databases**, **entity-relationship diagram**, **relational diagram** and handling of database managers such as **MariaDB**, **PostgreSQL** and **MySQL** as well as **SQLite** and basic knowledge in **MongoDB**; **REST API**, **GraphQL** using **Hasura graphql engine** and **Docker**.
-
-I have been some years using languages like **C, Python, Java**, more recently **Go and GraphQL** related technologies like **Hasura** and authentication systems like **Auth0**. Below is a complete list of the technologies I have used over the years.
+**Backend Engineer with 7+ years of experience in developing scalable and high-performance backend
+systems. Proven track record in designing and optimizing microservices, enhancing database efficiency,
+and deploying containerized solutions on cloud platforms like AWS and Azure. Passionate about clean
+code, automation, and driving engineering best practices to deliver robust and maintainable solutions.**
 
 <br/>
 
