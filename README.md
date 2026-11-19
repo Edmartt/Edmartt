@@ -9,7 +9,7 @@ code, automation, and driving engineering best practices to deliver robust and m
 <br/>
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmartt&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Stats](https://github-readme-stats-delta-sepia-75.vercel.app/api?username=edmartt&show_icons=true&count_private=true&locale=en&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats]([github-stats-extended.vercel.app](https://github-stats-extended.vercel.app)/api?username=edmartt&show_icons=true&count_private=true&locale=en&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github-stats-extended.vercel.app))
 [![Profile-Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edmartt&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
@@ -23,9 +23,10 @@ code, automation, and driving engineering best practices to deliver robust and m
 
 
 *Web Development*
-- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff">
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>![Traefik Proxy](https://img.shields.io/badge/traefik-%2324A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
+- <img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff">
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 *DevOps*
 
@@ -33,6 +34,11 @@ code, automation, and driving engineering best practices to deliver robust and m
 
 *Version control*
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+
+
+*Artificial Intelligence*
+- ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+- ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
 
 *Operating Systems*
 - <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
